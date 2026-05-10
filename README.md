@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/27567586/README.1.md)
 # 🕵️ Algorithmic Fraud Detection & Explainable AI Copilot
 
 > An end-to-end machine learning pipeline combining **Cost-Sensitive XGBoost** and **Retrieval-Augmented Generation (RAG)** to detect financial fraud and automatically explain every decision.
